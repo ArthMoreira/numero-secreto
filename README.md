@@ -1,1 +1,1 @@
-#Algumas configurações em andamento, em breve um readme completo! 
+# Algumas configurações em andamento, em breve um readme completo! 
